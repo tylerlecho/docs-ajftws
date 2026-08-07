@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-umkrhb.salamduit.sbs/sitemap.xml
